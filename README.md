@@ -54,7 +54,7 @@
 <div display="inline-block">
  <p align="left">🤿 Scuba Team member at <a href="https://www.alura.com.br/">Alura</a> working on the Projeto Edutech;</p>
  <p align="left">📚 In a serious relationship with Python, mainly in Data Science field, and also studying a wide broad of programming languages such as Front-End (HTML, CSS and JS) and Back-End (Java and Python, I know these 2 guys are general purpose languages😉);</p>
- <p align="left">👨🏽‍🏫 I'm a Math Teacher and Engineer who loves to bring some topics about logic, technology, robotics and programming in my classes.</p>
+ <p align="left">👨🏽‍🏫 I'm a Math Teacher and Engineer who loves to bring some topics about logic, technology, robotics and programming in my classes;</p>
  <p align="left">👨🏽‍🍳🎮 I love to cook, travel and watch movies, series and anime and play games such as soccer, Tomb Raider and RE.</p>
 </div>
 
