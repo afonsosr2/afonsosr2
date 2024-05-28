@@ -1,7 +1,7 @@
 # Hi There! Welcome to my profile!
 
 - I'm Afonso Augusto Rios
-- 30 years old
+- 33 years old
 - Brazilian from Santo Antonio de Jesus-BA and currently living in Petrolina-PE
 - Passionate about technology, robotics education, and mathematics
 - Beginner in programming, but learning by doing, failing and redoing 😄
@@ -17,8 +17,6 @@
    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
-   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>   
    <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch%20-%234D97FF.svg?logo=scratch&logoColor=white"></a>
 </p>
@@ -60,19 +58,11 @@
 
 </br>
  
-<!--
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer também o meu [site](https://jeniblodev.github.io/-site_projetos/) com um pouco sobre a minha história e meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios também. =)
--->
- 
 </br>
 
 <a href="https://www.instagram.com/afonsosr2" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/afonsorios" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/afonsosr2" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-<!--
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
--->
 
 ##
 <p align="center">
