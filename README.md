@@ -4,7 +4,6 @@
 - 33 years old
 - Brazilian from Santo Antonio de Jesus-BA and currently living in Petrolina-PE
 - Passionate about technology, robotics education, and mathematics
-- Beginner in programming, but learning by doing, failing and redoing 😄
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges and https://github.com/DenverCoder1 -->
 
